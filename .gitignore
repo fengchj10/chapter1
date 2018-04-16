@@ -1,0 +1,17 @@
+*.git
+*.project
+*.classpath
+*.prefs
+*.bat
+target/*
+*/target/*
+/bin
+.idea
+*.iml
+rebel.xml
+.idea/*
+/.idea
+workspace.xml
+*/.settings/
+*/target/
+out/
